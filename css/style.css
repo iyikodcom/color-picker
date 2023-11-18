@@ -1,0 +1,3 @@
+html, body, #app, #app > main{
+    height: 100%;
+}
